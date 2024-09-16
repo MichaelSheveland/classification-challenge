@@ -130,3 +130,19 @@ Which model performed better? (5 points)
 
 How does that compare to your prediction? (5 points)
 
+
+
+Model performance : 
+
+'''
+
+Based on what we saw the RandomForestClassifier was had a better Training score and better Accurancy. However with the training score so high Over fitting is a concern but looking at accurancy proved higher then the other model. 
+
+Logistic Regression:
+Training Score: 0.9257971014492754
+Accuracy Score: 0.9226759339704604
+
+Random Forest:
+Training Score Random Forest 0.9994202898550725
+Accuracy Score Random Forest 0.9582971329278888
+'''
